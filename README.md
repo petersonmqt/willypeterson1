@@ -1,4 +1,4 @@
-## 📚 _I’m currently learning c++ ._
+## 📚 _I’m currently learning c# ._
 
 <!--
 **petersonmqt/petersonmqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
